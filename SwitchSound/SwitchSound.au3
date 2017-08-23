@@ -1,9 +1,9 @@
-#Region ;**** Directives created by AutoIt3Wrapper_GUI ****
+#Region
 #AutoIt3Wrapper_Icon=Sound.ico
-#EndRegion ;**** Directives created by AutoIt3Wrapper_GUI ****
+#EndRegion
 ; =================================================
 ; Switch entre mis dos tipos de reproductores.
-; Altavoz posición=0 y Auricular=1.
+; Altavoz posición=0 y Auricular=2.
 ; =================================================
 Run("C:\Windows\System32\control.exe mmsys.cpl")
 
