@@ -1,0 +1,17 @@
+$10;*Depot
+$12;*Barracks;!skip 1 SCV
+$12;*Refinery;!resume SCV production
+$15;*OrbitalC
+$15;*Reaper(1)
+$16;*Depot
+$17;*Reaper(2)
+$20;*2nd CommandC
+!Above;is standard Reaper; FE
+$21;%2nd Reaper;*Reactor on Rax
+*Factory;*2nd Refinery
+$23;*Depot
+%Factory;!swap; Factory to React;
+*Starport;*4Mines
+%Starport;*Medivac
+%Medivac;#7:10;!load Medivac with 4Mines
+!drop; your opponent

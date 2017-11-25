@@ -1,0 +1,28 @@
+$9;*Overlord
+$15;*Hatchery
+$16;*Extractor
+$16;*Spawning Pool
+$17;*Overlord
+$19;%Pool;*2 Queens,2 lings
+$23;^100;*Meta Boost
+!Pull;2 Drones out of;your Extractor
+$24;*Overlord
+$30;%Queens;*3rd Queen
+!Benchmark;%Metabolic Boost finishes;#6:00
+!3 Queens;2 Zerglings;35 Drones
+%Metabolic Boost;*3rd Hatchery
+^100;*Extractor
+;*Roach Warren
+!Also;Put 2 Drones back;into your 1st Extractor
+% 2base Satur;*5+ Overlords
+!2base satur;16 DronOnMine;2 Bases
+!3 DronGas;2 Extractors;= 38 Drones
+% RoachWarren;*10 Roach
+;*Banelings Nest
+!Now;only produce; Speedlings
+!Push out;%10 Roaches;#7:45
+!PUSH;R-Speedlings to; the fight
+%Banelings Nest;*10Bane
+!Attack;your opponent when;your Banelings morph
+#8:50;!10 Roach;10 Bane
+40lings;Constantly reinforce;lings & Banes.

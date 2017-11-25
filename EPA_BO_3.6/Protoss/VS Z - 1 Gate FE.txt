@@ -1,0 +1,11 @@
+$9;*pylon
+$13;*gate
+$15;*double gas
+$16;*pylon
+$17;*cybernetics
+$19;*Zealot;!(Cancel before finish)
+$20;*mothership core
+$22;*nexus
+$22;*warpgate research and sentry
+$25;*pylon;!at natural
+!gateway;wall off at;natural 

@@ -1,0 +1,16 @@
+$9;*Pylon
+!Scout
+%Pylon;!Chrono Nexus
+$12;*Gateway
+!Chrono;Nexus
+$14;*Assimilator
+$16;*Pylon
+%Gateway;*CyberC
+%1/3CyberC;*Gateway(2)
+%CyberC;*Stalker;!Chrono Stalker
+*Warp Gate
+%1/3Stalker;*Assimilator
+%Stalker;*Stalker;!Chrono Stalker
+%Gateway(2);*Stalker;!Chrono Stalker
+%Salkers;*Robo;*Gateway
+*Sentry;!Chrono;Sentry 

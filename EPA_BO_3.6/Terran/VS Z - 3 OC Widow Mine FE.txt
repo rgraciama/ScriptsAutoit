@@ -1,0 +1,25 @@
+$10;*Depot
+$12;*Barracks
+$13;*Refinery
+$15;*OrbitalC
+$16;*Marine;!1 marine only
+$16;*CommandC
+$17;*Depot
+$19;*Factory;!Swap Rax
+%Swap;*Tech on Barracks
+$20;*CommandC
+$?;*OC on 2nd CC
+$27;*Bunker;!On Natural
+$29;*Stimpack
+$35;*Barracks[2x]
+$?;*Rax on Both
+$39;*OrbitalC
+$42;*Starport;!build on factory rax
+$44;*EngBay[2x]
+
+Desc:
+Be weary;of Roaches. 
+With the;Widow Mines, have one mine;
+in front;of the bunker that is guarding;your natural
+and another;at the bottom of your ramp.
+You should;have about 4-6 widow mines; and a full bunker.

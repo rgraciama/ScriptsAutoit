@@ -1,0 +1,15 @@
+$10;!Extractor trick;#00:51
+$11;*Overlord;#1:07
+$11;*Pool;#1:36
+$15;*Extractor;#2:18
+$15;*Queen;#2:41
+!Send;drones[x3] to gas
+$18;*Overload;#2:58
+$18;*Roach Warren;#3:11
+$17;*Overload;#3:22
+!17/34;Supply
+$17;*Roach[7x];#4:17
+!Go to;Rush
+$31;*Overload[2x]
+!31/50;Supply
+$45;*Roach[7x]

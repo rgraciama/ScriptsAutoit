@@ -1,0 +1,7 @@
+$6;*Spawning Pool
+$5;*Drone
+$6;*Drone
+#1:30;!Send your first Drone; to scout the closest spawn
+@100;!Send your second Drone; to the same direction
+@125;!Send all your workers; toward your opponent's base
+%Pool;*[3x]Zerglings;!send to opponent's base 

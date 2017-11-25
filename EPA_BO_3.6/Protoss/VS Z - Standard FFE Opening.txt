@@ -1,0 +1,9 @@
+$9;*Pylon
+!Scout;con probe
+$14;*Forge
+$17;*Nexus
+$17;*Pylon
+$18;*Gateway
+$18;*Cannon[<2]
+$18;*Assimilator[2x]
+!1 v 1;En exp los canon

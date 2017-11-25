@@ -1,0 +1,18 @@
+10 - Supply Depot
+12 - Barracks
+13 - Refinery
+15 - Orbital Command
+16 - Barracks (@150 Minerals, before 2nd supply)
+17 - Supply Depot
+18 - Tech Lab (After 2 marines from first Rax; @100% Stimpack and Marauder production)
+22 - Barracks (Build as 2nd Rax finishes)
+22 - Reactor (On second Rax)
+23 - Supply Depot
+30 - Tech Lab (Once finished research Concussive Shells)
+30 - Supply Depot
+
+
+Description
+-----------
+A 6-7 minute timing push designed to be an all in to a soft contain FE build.
+Push out around 6:20, stim and shells should finish around 7 minutes. Save a scan for the timing push when going up their ramp, rally all 3 Rax's to their ramp.

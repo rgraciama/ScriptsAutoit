@@ -1,0 +1,17 @@
+$8;*Pylon;#0:38
+$8;*Gateway;#1:08
+!2;Drones
+$10;*Assimilator;#1:39
+$11;*Cyber;#2:14
+$12;*Gateway;#2:35
+$13;*DistorsionP;#3:06
+!Move;Drone;Proxy
+!Stop;production;drones
+$13;*Stalker;#3:25
+$15;*Pylon(Proxy);#3:58
+$15;*Stalker(RP-Proxy);#4:02
+$17;*Stalker(RP-Proxy);#4:02
+!Continue;produccion;drones
+$20;*WarpGate;#5:19
+$20;*Stalker(Proxy);#5:31
+$20;*Stalker(Proxy);#5:45

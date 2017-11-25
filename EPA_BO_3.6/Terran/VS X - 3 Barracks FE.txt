@@ -1,0 +1,9 @@
+$10;*Depot;!Block Ramp
+$13;*CommandC
+$14;*Barracks;!Block Ramp
+$14;*Barracks;!Block Ramp
+$16;*Barracks;!Start marine production
+$16;*OrbitalC
+$17;*OrbitalC
+$21;*Refinery[2x]
+$28;*Depot[2x]

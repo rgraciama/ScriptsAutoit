@@ -1,0 +1,16 @@
+$10;*Depod;#0:55
+$13;*Barrack;#1:43
+$14;*Barrack;#2:07
+$14;*Barrack;#2:26
+$14;*Barrack;#2:45
+$15;*Marine;#2:52
+$16;*Marine;#3:13
+$17;*Marine;#3:17
+$17;*Depod;#3:17
+$18;*Marine;#3:32
+$19;*Marine;#3:38
+$20;*Marine;#3:47
+$21;*Marine;#3:51
+$22;*Marine;#3:57
+$23;*Marine;#4:03
+
